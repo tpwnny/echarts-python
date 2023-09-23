@@ -1,37 +1,4 @@
-Echarts for Python
-==================
 
-An unofficial Echarts options generator with Python.
-
-.. image:: https://img.shields.io/pypi/v/echarts-python.svg
-   :target: https://pypi.python.org/pypi/echarts-python/
-   :alt: Latest Version
-.. image:: https://travis-ci.org/yufeiminds/echarts-python.svg?branch=develop
-   :target: https://travis-ci.org/yufeiminds/echarts-python
-   :alt: Travis CI Status
-.. image:: https://codecov.io/github/yufeiminds/echarts-python/coverage.svg?branch=develop
-   :target: https://codecov.io/github/yufeiminds/echarts-python?branch=master
-   :alt: Codecov Status
-.. image:: https://readthedocs.org/projects/echarts-python/badge/?version=latest
-   :target: http://echarts-python.readthedocs.org/en/latest/?badge=latest
-   :alt: Doc Status
-
--  Free software: MIT license
--  Documentation: http://echarts-python.readthedocs.io/en/stable/ (NOT Ready)
--  Online demo: https://yufeiminds.github.io/echarts-python/ (NOT Ready)
-
-This repo still on developing (ALPHA), DON'T USE IT IN PRODUCTION.
-
-Installation
-------------
-
-Installing **echarts-python** with pip ::
-
-  $ pip install echarts-python
-
-Current version for `Echarts 3.1.6 <http://echarts.baidu.com/option.html>`_
-
-Basic Usage
 -----------
 
 .. code-block:: python
